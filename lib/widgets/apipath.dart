@@ -1,0 +1,1 @@
+const baseUrl = "https://rmsbackend.prominenttrades.in/";
